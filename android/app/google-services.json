@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "159171602922",
+    "project_id": "lestari-42054",
+    "storage_bucket": "lestari-42054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159171602922:android:19d2b03527d518c53aaa93",
+        "android_client_info": {
+          "package_name": "com.midnights.lestari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159171602922-687cb2159235n91on2koa739fusjma0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midnights.lestari",
+            "certificate_hash": "2569f6a62fbf5616025f0b0737e1b4420d7d2578"
+          }
+        },
+        {
+          "client_id": "159171602922-99lu10jehajh04qnhvdnii17d7kfv760.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midnights.lestari",
+            "certificate_hash": "2f5072c29e7fe77f1d92e1378e8b7b7dda760d8e"
+          }
+        },
+        {
+          "client_id": "159171602922-gvi35ltki8j9gu3lk779rk9nlsa4747o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkjf3mysFuRs2TJrB8JBJamldXYsGTj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159171602922-gvi35ltki8j9gu3lk779rk9nlsa4747o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159171602922-4s18bgn0kppbki3rj9k1tv0hs17v33j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.midnights.lestari"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159171602922:android:b44d2b56b62e60e43aaa93",
+        "android_client_info": {
+          "package_name": "com.midnights.lestari_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159171602922-s4e2t3j5sc1kgpff86kcj8v5i6s36473.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midnights.lestari_admin",
+            "certificate_hash": "2569f6a62fbf5616025f0b0737e1b4420d7d2578"
+          }
+        },
+        {
+          "client_id": "159171602922-sa5bbi2ihnhe4rubshh4q1b714ofinqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midnights.lestari_admin",
+            "certificate_hash": "2f5072c29e7fe77f1d92e1378e8b7b7dda760d8e"
+          }
+        },
+        {
+          "client_id": "159171602922-gvi35ltki8j9gu3lk779rk9nlsa4747o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkjf3mysFuRs2TJrB8JBJamldXYsGTj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159171602922-gvi35ltki8j9gu3lk779rk9nlsa4747o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159171602922-4s18bgn0kppbki3rj9k1tv0hs17v33j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.midnights.lestari"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159171602922:android:4c0967383b15e2103aaa93",
+        "android_client_info": {
+          "package_name": "com.wonderland.lestari_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159171602922-8j9gtvuk9s31qr2deo16u08qoggp0d9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wonderland.lestari_flutter",
+            "certificate_hash": "2f5072c29e7fe77f1d92e1378e8b7b7dda760d8e"
+          }
+        },
+        {
+          "client_id": "159171602922-gvi35ltki8j9gu3lk779rk9nlsa4747o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkjf3mysFuRs2TJrB8JBJamldXYsGTj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159171602922-gvi35ltki8j9gu3lk779rk9nlsa4747o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159171602922-4s18bgn0kppbki3rj9k1tv0hs17v33j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.midnights.lestari"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
