@@ -130,13 +130,11 @@ class _AnimalDetailPageState extends State<AnimalDetailPage> {
           offset: const Offset(0, 3), // changes position of shadow
         ),
       ]),
-      child: Expanded(
-        child: ElevatedButton(
-          onPressed: () {
-            SharedCode.navigatorPush(context, ModelViewerPage(animal: widget.animalModel));
-          },
-          child: const Text('Lihat dalam 3D'),
-        ),
+      child: ElevatedButton(
+        onPressed: () {
+          SharedCode.navigatorPush(context, ModelViewerPage(animal: widget.animalModel));
+        },
+        child: const Text('Lihat dalam 3D'),
       ),
     );
   }
